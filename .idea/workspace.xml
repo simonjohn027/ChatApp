@@ -10,9 +10,7 @@
       <change afterPath="$PROJECT_DIR$/frontend/src/static/css/InitChat.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/frontend/src/websocket.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/chat/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/chat/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/communication/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/communication/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend" beforeDir="false" afterPath="$PROJECT_DIR$/frontend" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
     </list>
@@ -101,7 +99,7 @@
       <workItem from="1585305529938" duration="8840000" />
       <workItem from="1585416041725" duration="254000" />
       <workItem from="1585416605964" duration="7318000" />
-      <workItem from="1585469476079" duration="3979000" />
+      <workItem from="1585469476079" duration="5405000" />
     </task>
     <servers />
   </component>
