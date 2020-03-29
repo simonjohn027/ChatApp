@@ -17,9 +17,8 @@ def validate_message_content(content):
 
 
 class User(AbstractUser):
-    last_read_date = models.DateTimeField(auto_now_add=True,blank=False, nu
-                                           =False)
-    online = models.BooleanField(null = False,blank= False,default=False)
+    last_read_date = models.DateTimeField(auto_now_add=True, blank=False, null=False)
+    online = models.BooleanField(null=False, blank=False, default=False)
 
     REQUIRED_FIELDS = []
 
@@ -31,13 +30,11 @@ class User(AbstractUser):
         self.save()
 
     def unread_message(self):
-        return Message.objects.filter(created_at__gt = self.last_read_date).count()
+        return Message.objects.filter(created_at__gt=self.last_read_date).count()
 
 
 class Message(models.Model):
-    id = models.UUIDField(primary_key= True,null=False,default=uuid.uuid4,edita
-                          = False)
-    author = models.ForeignKey(User,blank=False,null=False, related_name='author_messages',on_delete=models.CASCADE)
+    id = models.UUIDField(primary_key=True, null=False, default=uuid.uuid4, editable=False)
+    author = models.ForeignKey(User, blank=False, null=False, related_name='author_messages', on_delete=models.CASCADE)
     content = models.TextField(validators=[validate_message_content])
-    created_at = models.DateTimeField(auto_now_add=True,blank=True)
-    
+    created_at = models.DateTimeField(auto_now_add=True, blank=True)
