@@ -3,8 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="f21dc500-6095-4f8d-a596-13889c421ed6" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/frontend/src/Components/ChatComponents.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/Components/InitializeChatComponent.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/frontend/src/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/static/css/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/static/css/Chat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/static/css/InitChat.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/frontend/src/websocket.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend" beforeDir="false" afterPath="$PROJECT_DIR$/frontend" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +24,7 @@
       <list>
         <option value="Python Script" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -29,6 +37,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -85,7 +94,8 @@
       <updated>1585305193901</updated>
       <workItem from="1585305529938" duration="8840000" />
       <workItem from="1585416041725" duration="254000" />
-      <workItem from="1585416605964" duration="5886000" />
+      <workItem from="1585416605964" duration="7318000" />
+      <workItem from="1585469476079" duration="1585000" />
     </task>
     <servers />
   </component>
