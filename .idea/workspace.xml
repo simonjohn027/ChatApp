@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f21dc500-6095-4f8d-a596-13889c421ed6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/chat/templates/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/frontend/src/Components/ChatComponents.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/frontend/src/Components/InitializeChatComponent.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/frontend/src/config/index.js" afterDir="false" />
@@ -9,6 +10,7 @@
       <change afterPath="$PROJECT_DIR$/frontend/src/static/css/Chat.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/frontend/src/static/css/InitChat.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/frontend/src/websocket.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend" beforeDir="false" afterPath="$PROJECT_DIR$/frontend" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
     </list>
@@ -24,17 +26,19 @@
         <option value="Python Script" />
         <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Zhxatgk3PgAwdaiAx3XS0gp2zt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -94,7 +98,7 @@
       <workItem from="1585305529938" duration="8840000" />
       <workItem from="1585416041725" duration="254000" />
       <workItem from="1585416605964" duration="7318000" />
-      <workItem from="1585469476079" duration="2077000" />
+      <workItem from="1585469476079" duration="2478000" />
     </task>
     <servers />
   </component>
