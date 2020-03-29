@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f21dc500-6095-4f8d-a596-13889c421ed6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chat/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat/templates/room.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/frontend/src/Components/ChatComponents.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/frontend/src/Components/InitializeChatComponent.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/frontend/src/config/index.js" afterDir="false" />
@@ -98,7 +98,7 @@
       <workItem from="1585305529938" duration="8840000" />
       <workItem from="1585416041725" duration="254000" />
       <workItem from="1585416605964" duration="7318000" />
-      <workItem from="1585469476079" duration="2478000" />
+      <workItem from="1585469476079" duration="3072000" />
     </task>
     <servers />
   </component>
