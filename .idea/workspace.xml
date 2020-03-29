@@ -9,9 +9,8 @@
       <change afterPath="$PROJECT_DIR$/frontend/src/static/css/Chat.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/frontend/src/static/css/InitChat.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/frontend/src/websocket.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend" beforeDir="false" afterPath="$PROJECT_DIR$/frontend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +94,7 @@
       <workItem from="1585305529938" duration="8840000" />
       <workItem from="1585416041725" duration="254000" />
       <workItem from="1585416605964" duration="7318000" />
-      <workItem from="1585469476079" duration="1585000" />
+      <workItem from="1585469476079" duration="2077000" />
     </task>
     <servers />
   </component>
